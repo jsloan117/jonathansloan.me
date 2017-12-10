@@ -156,7 +156,7 @@ email: "jsloan117@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Jonathan Sloan is an awesome person. He lives in the Midwest, in his spare time, Jonathan likes to learn more about Linux."
+author_blurb: "Jonathan Sloan is an awesome person. He lives in the Midwest, in his spare time, Jonathan likes to learn all the things about Linux."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -169,7 +169,7 @@ social:
   - title: "github"
     url: "https://github.com/jsloan117"
   - title: "file-text-o"
-    url: "http://jonathansloan.me/resumes/myresume.html"
+    url: "http://jonathansloan.me/resumes/resume.pdf"
   - title: "rss"
     url: "/feed.xml"
 
