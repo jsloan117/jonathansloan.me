@@ -12,8 +12,8 @@ url: "http://jonathansloan.me"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
-#baseurl: 
+#baseurl: /personal-jekyll-theme
+baseurl: 
 
 # Google tracking id
 
