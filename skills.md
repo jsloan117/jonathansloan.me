@@ -8,10 +8,10 @@ title: Skills
 <details>
   <summary>Linux</summary><p style="text-align:left;">
     <ul style="text-align:left;">
-      <li>I have my Linux+ and LPIC-1.</li>
+      <li>I obtained my Linux+ and LPIC-1 certifcations on October 27, 2017.</li>
       <li>The distro I am most familiar with is CentOS and some familiarity with Ubuntu.</li>      
       <li>I always have a Linux project going at home.</li>
-      <li>I have made custom scripts to manage firewalls, clean up maintenance with cron, motd, and login scripts.</li>
+      <li>I have made custom scripts to accomplish many different tasks.</li>
       <li>I can use shell scripting to automate tasks.</li>
     </ul>
 </p></details>
@@ -26,7 +26,6 @@ title: Skills
     <li>Recovered corrupted media.</li>
     <li>Recovered data from corrupted hard drives.</li>
     <li>Recovered deleted media.</li>
-    <li>I have worked on most issues locally and remotely.</li>
     <li>Set up remote access using, RDP, SSH, FTP, SCP, SMB, TeamViewer.</li>
   </ul>
 </p></details>
@@ -34,7 +33,7 @@ title: Skills
   <summary>Security</summary><p style="text-align:left;">
     <ul style="text-align:left;">
       <li>Used Aircrack-ng Suite of tools to crack wireless passwords for WEP and WPA*</li>
-      <li>Used Wireshark to analyze network traffic.</li>
+      <li>Used Wireshark and Tcpdump to analyze network traffic.</li>
       <li>Used Cain & Abel to capture plain text passwords on a network.</li>
       <li>Used Nmap to test for open ports.</li>
       <li>Remove, crack, or bypass Windows passwords.</li>
@@ -53,8 +52,8 @@ title: Skills
 <details>
   <summary>Websites and Web Hosting</summary><p style="text-align:left;">
     <ul style="text-align:left;">
-      <li>I am able to install, configure and secure just about any CMS and/or web-based application out there. Just to name a few WordPress, Joomla, OSTicket, Magento, OTRS, Invoice Ninja, Time Trex.</li>
-      <li>I have setup a number of my own personal websites, including www.jonathansloan.me</li>
+      <li>I am able to install, configure and secure just about any CMS and/or web-based application out there.</li>
+      <li>I have setup a number of my own personal websites.</li>
       <li>Modified existing HTML code and content for my personal site(s).</li>
       <li>Managed DNS records.</li>
       <li>I have registered and managed domains.</li>
@@ -65,8 +64,8 @@ title: Skills
 <details>
   <summary>Documentation and Reporting</summary><p style="text-align:left;">
     <ul style="text-align:left;">
-      <li>Created documentation for procedures and policies to help reduce overall time on a single task.</li>
-      <li>Documented all work in a ticketing system to show exactly what  work I have done.</li>
+      <li>Created documentation for procedures and policies to help guide employees.</li>
+      <li>Documented all work in a ticketing system to show exactly what work I have done.</li>
       <li>Kept track of all issues during shifts and reported to team so that everyone was on the same page at all times.</li>
       <li>Kept track of progress so that I could hand off any ticket to any team member and after reading my notes the team would be able to continue with the ticket.</li>
     </ul>
@@ -77,7 +76,7 @@ title: Skills
       <li>Support Customers on Phones, Live Chat and tickets.</li>
       <li>Placated clients angry from outages that we had no control over (Internet Outages, Power outages, or hardware failure when there was no redundancy.)</li>
       <li>Placated clients that would not have issues worked on for several hours or even days.</li>
-      <li>Work with customers of all walks of life at all ages and with all differing in computer experience.</li>
+      <li>Work with customers from all walks of life at all ages and with all differing in computer experience.</li>
       <li>Follow up with customers to make sure there happy with the service.</li>
     </ul>
 </p></details>
