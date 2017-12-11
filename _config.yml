@@ -1,23 +1,12 @@
-
 # Site settings
-
-# NB! Set your site's url, otherwise stuff will break :)
 
 url: "http://jonathansloan.me"
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
-
-#baseurl: /personal-jekyll-theme
 baseurl: 
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-110958650-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -61,18 +50,6 @@ lines: # You can add HTML Tags in the Text
   - text: "A man who procrastinates in his choosing will inevitably have his choice made for him by circumstance."
 
 me-img: "/img/jetpacktocat.png"
-
-# To use github profile pic uncomment the following line and replace 'user_name'
-# with your github user name.
-
-# me-img: "https://github.com/user_name.png?size=500"
-
-# To use gravatar profile pic uncomment the following line and replace 'email_hash'
-# with your gravatar profile email hash.
-# You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
-# just enter your email and it will generate the hash.
-
-# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
 
 ##############################
 # Color the browser elements #
