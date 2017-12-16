@@ -8,10 +8,6 @@ baseurl:
 
 google-tracking-id: "UA-110958650-1"
 
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
-
 force-https: false
 
 #############
@@ -114,8 +110,6 @@ events:
   - image: "/img/timeline/a2hosting.png"
     date: "December 2013 - June 2015"
     description: "Getting my first professional experience in Linux at A2 Hosting."
-
-# First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
 
