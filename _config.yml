@@ -1,6 +1,6 @@
 # Site settings
 
-url: "http://jonathansloan.me"
+url: "http://www.jonathansloan.me"
 
 baseurl: 
 
@@ -79,13 +79,13 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
-fb-share: True
-twitter-share: True
+fb-share: False
+twitter-share: False
 linkedin-share: True
-reddit-share: True
+reddit-share: False
 google-plus-share: True
-tumblr-share: True
-pinterest-share: True
+tumblr-share: False
+pinterest-share: False
 pocket-share: True
 vkontakte-share: True
 
@@ -98,6 +98,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/codero-hosting.png"
+    date: "Janurary 2018 - Present"
+    description: "Another great opportunity to further my knowledge of Linux & Windows Hosting with Codero."
   - image: "/img/timeline/lpic-1.png"
     date: "October 27 2017 - October 27 2022"
     description: "Linux Certified Administrator"
@@ -166,7 +169,7 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+#  Blog: 'latest-post'
   Timeline: 'timeline'
   Skills: 'skills'
   Resume: 'resume'
