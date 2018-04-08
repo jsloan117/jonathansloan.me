@@ -99,7 +99,7 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/codero-hosting.png"
-    date: "Janurary 2018 - Present"
+    date: "January 2018 - Present"
     description: "Another great opportunity to further my knowledge of Linux & Windows Hosting with Codero."
   - image: "/img/timeline/lpic-1.png"
     date: "October 27 2017 - October 27 2022"
