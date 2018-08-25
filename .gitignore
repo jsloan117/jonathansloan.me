@@ -18,3 +18,4 @@ Rakefile
 .jekyll-metadata
 /.idea/
 Gemfile.lock
+.github
