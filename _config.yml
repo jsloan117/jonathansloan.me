@@ -83,7 +83,7 @@ fb-share: False
 twitter-share: False
 linkedin-share: True
 reddit-share: False
-google-plus-share: True
+google-plus-share: False
 tumblr-share: False
 pinterest-share: False
 pocket-share: True
@@ -98,6 +98,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/aws_saa.png"
+    date: "February 15 2019 - February 15 2021"
+    description: "AWS Certified Solutions Architect - Associate (SAA)"
   - image: "/img/timeline/codero-hosting.png"
     date: "January 2018 - Present"
     description: "Another great opportunity to further my knowledge of Linux & Windows Hosting with Codero."
@@ -130,7 +133,7 @@ email: "jsloan117@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Jonathan Sloan is an awesome person. He lives in the Midwest, in his spare time, Jonathan likes to learn all the things about Linux."
+author_blurb: "Jonathan Sloan is an unique person. He lives in the Midwest, in his spare time, Jonathan likes to star gaze and learn all the things about Linux."
 author_blurb_image: "/img/author.png"
 
 ##################
