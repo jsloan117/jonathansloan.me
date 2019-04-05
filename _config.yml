@@ -99,7 +99,7 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/aws_saa.png"
-    date: "February 15 2019 - February 15 2021"
+    date: "February 15 2019 - February 15 2022"
     description: "AWS Certified Solutions Architect - Associate (SAA)"
   - image: "/img/timeline/codero-hosting.png"
     date: "January 2018 - Present"
