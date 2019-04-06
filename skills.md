@@ -12,7 +12,7 @@ title: Skills
         <li>I obtained my AWS SAA certifcation on February 15, 2019.</li>
         <li>Experience with a multitude of services (EC2/S3/RDS/CloudFront/Route53) and more.</li>
         <li>I have setup fault tolerant auto-scaling EC2 instances with CloudFront.</li>
-        <li>I have deployed a personal astrophotography site <a href="https://pics.jonathansloan.me">https://pics.jonathansloan.me</a> using CloudFormation.</li>
+        <li>I have deployed a personal astrophotography site <a href="https://pics.jonathansloan.me" target="_blank">https://pics.jonathansloan.me</a> using CloudFormation.</li>
       </ul></p></details>
     <details><summary>Azure</summary><p style="text-align:left;">
       <ul style="text-align:left;list-style-type:disc;">
