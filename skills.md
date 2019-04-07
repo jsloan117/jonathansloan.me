@@ -66,6 +66,7 @@ title: Skills
 <details>
   <summary>Security</summary><p style="text-align:left;">
     <ul style="text-align:left;">
+      <li>Used Nessus Community edition to audit security against my own systems.</li>
       <li>Used Aircrack-ng Suite of tools to crack wireless passwords for WEP and WPA*</li>
       <li>Used Wireshark and Tcpdump to analyze network traffic.</li>
       <li>Used Cain & Abel to capture plain text passwords on a network.</li>
@@ -80,16 +81,16 @@ title: Skills
       <li>I am able to install, configure and secure a multitude of CMS's and/or web-based applications.</li>
       <li>I have setup a number of my own personal websites.</li>
       <li>Modified existing HTML code and content for my personal site(s).</li>
-      <li>Managed DNS records.</li>
+      <li>Experience managing POP3/IMAP/SMTP/DNS/FTP/HTTP/MySQL.</li>
       <li>I have registered and managed domains.</li>
       <li>Experience with cPanel/WHM & Plesk control panels.</li>
-      <li>Experience with billing platforms such as WHMCS & Ubersmith.</li>
+      <li>Experience with billing/ticketing platforms such as Kayako, WHMCS, Ubersmith and SaleForce.</li>
     </ul>
 </p></details>
 <details>
   <summary>Windows OS</summary><p style="text-align:left;">
     <ul style="text-align:left;">
-      <li>I have worked with Windows XP, 7, 8, and 10 regularly.</li>
+      <li>Experience working with Windows XP, 7, 8, and 10 regularly.</li>
       <li>I am able to do just about anything that is required of a Windows environment for users that range from home users to medium sized businesses.</li>
       <li>Regained access to locked computers, or one they have forgotten the password too.</li>
       <li>Preventive maintenance, numerous system optimizations and virus removals.</li>
